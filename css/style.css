@@ -1,0 +1,30 @@
+body {
+	background-image: url(img.png);
+	background-size: cover;
+}
+
+.mdl-card__title {
+	padding: 12px;
+	align-items: center;
+}
+
+.mdl-card__title-text {
+	font-size: 18px;
+}
+
+.search-widget {
+	margin-top: 15vh;
+	margin-bottom: 10vh;
+}
+
+#search-icon {
+	padding-right: 10px;
+}
+
+.search-widget, .links {
+	text-align: center;
+}
+
+.link {
+	display: block;
+}
