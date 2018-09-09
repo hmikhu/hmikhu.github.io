@@ -28,3 +28,8 @@ body {
 .link {
 	display: block;
 }
+
+.mdl-card__supporting-text {
+	    padding: 8px 0 8px 0 !important;
+			width: 100% !important;
+}
